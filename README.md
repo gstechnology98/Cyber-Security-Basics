@@ -1,2 +1,2 @@
 # Cyber-Security-Basics
-I Started cyber Security Just now and Uploded it in git hub
+I started cybersecurity just now and uploaded it to GitHub
